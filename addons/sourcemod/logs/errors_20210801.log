@@ -1,0 +1,7 @@
+L 08/01/2021 - 01:09:50: SourceMod error session started
+L 08/01/2021 - 01:09:50: Info (map "de_dust2") (file "C:\csgoserver\csgo\addons\sourcemod\logs\errors_20210801.log")
+L 08/01/2021 - 01:09:50: [warmod.smx] [SM] Unable to read directory: 'resource/flash/econ/tournaments/teams'
+L 08/01/2021 - 01:10:14: Error log file session closed.
+L 08/01/2021 - 01:52:41: SourceMod error session started
+L 08/01/2021 - 01:52:41: Info (map "de_dust2") (file "C:\csgoserver\csgo\addons\sourcemod\logs\errors_20210801.log")
+L 08/01/2021 - 01:52:41: [weapons.smx] Delete Inactive Player Data failed! query: "DELETE FROM weapons WHERE steamid in (SELECT steamid FROM weapons_timestamps WHERE last_seen < 1627807961 - (30 * 86400))" error: "no such table: weapons_timestamps"

@@ -1,0 +1,54 @@
+L 08/01/2021 - 01:09:48: SourceMod log file session started (file "C:\csgoserver\csgo\addons\sourcemod\logs\L20210801.log") (Version "1.10.0.6510")
+L 08/01/2021 - 01:09:48: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/01/2021 - 01:09:50: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:10:14: -------- Mapchange to de_dust2 --------
+L 08/01/2021 - 01:10:14: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:14:39: SourceMod log file session started (file "C:\csgoserver\csgo\addons\sourcemod\logs\L20210801.log") (Version "1.10.0.6510")
+L 08/01/2021 - 01:14:39: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/01/2021 - 01:14:42: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:17:57: -------- Mapchange to de_dust2 --------
+L 08/01/2021 - 01:17:58: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:26:52: SourceMod log file session started (file "C:\csgoserver\csgo\addons\sourcemod\logs\L20210801.log") (Version "1.10.0.6510")
+L 08/01/2021 - 01:26:52: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/01/2021 - 01:26:54: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:27:03: -------- Mapchange to de_dust2 --------
+L 08/01/2021 - 01:27:04: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:28:11: SourceMod log file session started (file "C:\csgoserver\csgo\addons\sourcemod\logs\L20210801.log") (Version "1.10.0.6510")
+L 08/01/2021 - 01:28:11: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/01/2021 - 01:28:13: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:28:44: -------- Mapchange to de_dust2 --------
+L 08/01/2021 - 01:28:45: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:33:26: SourceMod log file session started (file "C:\csgoserver\csgo\addons\sourcemod\logs\L20210801.log") (Version "1.10.0.6510")
+L 08/01/2021 - 01:33:26: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/01/2021 - 01:33:29: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:34:13: -------- Mapchange to de_dust2 --------
+L 08/01/2021 - 01:34:13: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:36:48: SourceMod log file session started (file "C:\csgoserver\csgo\addons\sourcemod\logs\L20210801.log") (Version "1.10.0.6510")
+L 08/01/2021 - 01:36:48: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/01/2021 - 01:36:51: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:37:01: -------- Mapchange to de_dust2 --------
+L 08/01/2021 - 01:37:02: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:37:18: [warmod.smx] "knife_on_3" (player "Super Lee<3><STEAM_1:1:204670292><>")
+L 08/01/2021 - 01:40:10: SourceMod log file session started (file "C:\csgoserver\csgo\addons\sourcemod\logs\L20210801.log") (Version "1.10.0.6510")
+L 08/01/2021 - 01:40:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/01/2021 - 01:40:12: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:40:20: -------- Mapchange to de_dust2 --------
+L 08/01/2021 - 01:40:21: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:41:13: [basecommands.smx] "Super Lee<2><STEAM_1:1:204670292><>" changed map to "de_train"
+L 08/01/2021 - 01:41:17: [SM] Changed map to "de_train"
+L 08/01/2021 - 01:41:19: -------- Mapchange to de_train --------
+L 08/01/2021 - 01:41:19: [warmod.smx] Current Map: de_train, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:41:45: [warmod.smx] "force_start" (player "Super Lee<2><STEAM_1:1:204670292><>")
+L 08/01/2021 - 01:47:05: SourceMod log file session started (file "C:\csgoserver\csgo\addons\sourcemod\logs\L20210801.log") (Version "1.10.0.6510")
+L 08/01/2021 - 01:47:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/01/2021 - 01:47:07: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:47:16: -------- Mapchange to de_dust2 --------
+L 08/01/2021 - 01:47:16: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:47:43: [warmod.smx] "force_start" (player "Super Lee<3><STEAM_1:1:204670292><>")
+L 08/01/2021 - 01:52:29: SourceMod log file session started (file "C:\csgoserver\csgo\addons\sourcemod\logs\L20210801.log") (Version "1.10.0.6510")
+L 08/01/2021 - 01:52:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/01/2021 - 01:52:31: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:52:40: -------- Mapchange to de_dust2 --------
+L 08/01/2021 - 01:52:41: [warmod.smx] Current Map: de_dust2, Warmod Version: 20.07.15.1214
+L 08/01/2021 - 01:52:42: [weapons.smx] SQLite DB connection successful
+L 08/01/2021 - 01:52:42: [weapons.smx] Inactive players' data has been deleted
